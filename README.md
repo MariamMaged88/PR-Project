@@ -11,9 +11,8 @@ PR-Project/
 ├── PR_project.ipynb              # Main Jupyter notebook with analysis
 ├── Cause of Death_Training Part.csv  # Training dataset
 ├── pattern project documentation copy.docx  # Project documentation
-├── pattern.pptx                  # Presentation slides
-├── PR project.mp4               # Project video
 ├── .gitignore                   # Git ignore file
+├── requirements.txt              # Python dependencies
 └── README.md                    # This file
 ```
 
